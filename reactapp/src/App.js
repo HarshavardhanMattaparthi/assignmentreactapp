@@ -59,7 +59,7 @@ const App = () => {
         <ul className="list-style">
           <li className="list-items">Project</li>
           <li className="list-items">Language</li>
-          <li className="list-items">Language Transalation</li>
+          <li className="list-items">Language </li>
           <li className="list-items">Dashboard</li>
           <li className="list-items">User Management</li>
         </ul>
